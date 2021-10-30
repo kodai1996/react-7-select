@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c37dadc.chunk.css",
+    "main.js": "/static/js/main.9c22f7e8.chunk.js",
+    "main.js.map": "/static/js/main.9c22f7e8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.97782017.js",
+    "runtime-main.js.map": "/static/js/runtime-main.97782017.js.map",
+    "static/js/2.42d9e1d4.chunk.js": "/static/js/2.42d9e1d4.chunk.js",
+    "static/js/2.42d9e1d4.chunk.js.map": "/static/js/2.42d9e1d4.chunk.js.map",
+    "static/js/3.30130a6c.chunk.js": "/static/js/3.30130a6c.chunk.js",
+    "static/js/3.30130a6c.chunk.js.map": "/static/js/3.30130a6c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6c37dadc.chunk.css.map": "/static/css/main.6c37dadc.chunk.css.map",
+    "static/js/2.42d9e1d4.chunk.js.LICENSE.txt": "/static/js/2.42d9e1d4.chunk.js.LICENSE.txt",
+    "static/media/blackskiny.cfe18119.jpg": "/static/media/blackskiny.cfe18119.jpg",
+    "static/media/knit.0c8552f2.jpg": "/static/media/knit.0c8552f2.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/longcoat.85cd65a6.jpg": "/static/media/longcoat.85cd65a6.jpg",
+    "static/media/setup.3d3f4670.jpg": "/static/media/setup.3d3f4670.jpg",
+    "static/media/shirt.65dc7232.jpg": "/static/media/shirt.65dc7232.jpg",
+    "static/media/shoes.73379e8a.jpg": "/static/media/shoes.73379e8a.jpg",
+    "static/media/sox.4e37a9a5.jpg": "/static/media/sox.4e37a9a5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97782017.js",
+    "static/js/2.42d9e1d4.chunk.js",
+    "static/css/main.6c37dadc.chunk.css",
+    "static/js/main.9c22f7e8.chunk.js"
+  ]
+}
